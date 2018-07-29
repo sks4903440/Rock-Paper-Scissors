@@ -1,4 +1,5 @@
 # Rock-Paper-Scissors
+Implementation of the game to teach python basics to newcomers
 
 **Dependencies**  
   Python 2.7
